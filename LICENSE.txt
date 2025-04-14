@@ -1,0 +1,11 @@
+Önder Med - İlaç Danışmanı
+Copyright (c) 2024 Önder Eczanesi
+
+Bu yazılım, kullanıcıların kendi API anahtarlarını kullanarak 
+Google Gemini AI servisi üzerinden ilaç bilgisi almalarını sağlar.
+
+Kullanım Koşulları:
+1. Bu yazılım "olduğu gibi" sunulmaktadır.
+2. Yazılımın kullanımından doğacak sorunlardan kullanıcı sorumludur.
+3. API kullanımı Google'ın kullanım koşullarına tabidir.
+4. Tıbbi kararlar için mutlaka bir sağlık profesyoneline danışınız. 
